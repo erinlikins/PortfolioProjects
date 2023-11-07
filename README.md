@@ -17,7 +17,7 @@ This data analysis project aims to discover patterns within the results of a sur
 
 ### Data Sources
 
-Survey Data: The dataset used for this project can be found within the 'studentsLibraryHabitsSurvey.csv' file included within this repository. The file includes 228 survey responses, with each column of data representing one of 16 questions. This data has been fabricated and randomized for use in this project. 
+Survey Data: The dataset used for this project can be found within the !['studentsLibraryHabitsSurvey.csv'](https://github.com/erinlikins/PortfolioProjects/blob/main/studentLibraryHabitsSurvey.csv) file included within this repository. The file includes 228 survey responses, with each column of data representing one of 16 questions. This data has been fabricated and randomized for use in this project. 
 
 ### Tools
 
