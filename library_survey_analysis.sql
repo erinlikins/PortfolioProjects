@@ -169,6 +169,7 @@ Select preferredReadingMaterial,
 	Count(*) as countPreferredReadingMaterial,
 	Count(*) * 100.0 / Sum(Count(*)) Over() as percentPreferredReadingMaterial
 From PortfolioProject..LibrarySurvey
+Where annualBookExpenditure = 'Above $100'
 Group by preferredReadingMaterial
 Order by percentPreferredReadingMaterial Desc
 
