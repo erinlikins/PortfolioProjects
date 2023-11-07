@@ -21,9 +21,9 @@ Survey Data: The dataset used for this project can be found within the 'students
 
 ### Tools
 
--SQL Server - Data analysis. The SQL code can be viewed in the !['library_survey_analysis.sql'] (https://github.com/erinlikins/PortfolioProjects/blob/main/library_survey_analysis.sql) tab.
+-SQL Server - Data analysis. The SQL code can be viewed in the ['library_survey_analysis.sql'] ([https://github.com/erinlikins/PortfolioProjects/blob/main/library_survey_analysis.sql)](https://github.com/erinlikins/PortfolioProjects/blob/main/library_survey_analysis.sql) tab.
 
--Tableau - Survey Data Dashboard. You can see it ![here.](https://public.tableau.com/app/profile/erin.likins/viz/StudentLibraryUsageSurveyResults/Dashboard1)
+-Tableau - Survey Data Dashboard. You can see it [here.]([https://public.tableau.com/app/profile/erin.likins/viz/StudentLibraryUsageSurveyResults/Dashboard1)](https://public.tableau.com/app/profile/erin.likins/viz/StudentLibraryUsageSurveyResults/Dashboard1))
 
 ### Data Preparation
 
