@@ -1,0 +1,229 @@
+ind,studentGender,primaryMethodOfStudy,libraryVisitFreq,primaryReasonForLibraryVisit,averageTimePerVisit,visitTimeOfDay,preferredLanguage,preferredReadingMaterial,readingEnjoymentLevel,awareOfDigitalResouce,usageOfDigitalResource,mostUsedDigitalResourceType,readingHabitsAffectedByCovid,purchasesBooks,annualBookExpenditure,residenceType
+1,Female,Text Books,Once in a week,Studying,2-4 hours,Afternoon,other,Fiction,Moderate,Yes,Yes,other,No - Not Affected,Yes,Less Than $20,Rural
+2,Female,Lecture Videos,Once in a month,Studying,Less than an hour,Morning,Spanish,Magazines,Moderate,Yes,Yes,online learning,Yes - Positively Affected,Yes,$20 to $100,Rural
+3,Female,Online resources/forums,Rarely,Studying,Less than an hour,Evening,English,Audiobooks,Moderate,Yes,No,N/A,No - Not Affected,No,I do not purchase books,Rural
+4,Male,Text Books,Once in a week,Studying,Less than an hour,Morning,Spanish,Non-Fiction,High,Yes,No,N/A,No - Not Affected,Yes,$20 to $100,Rural
+5,Male,Lecture Videos,2-3 times in a week,Having a place to read,Less than an hour,Morning,English,Reference books,Moderate,Yes,Yes,online learning,No - Not Affected,Yes,$20 to $100,Rural
+6,Male,Lecture Videos,Once in a week,Studying,Less than an hour,Evening,English,Reference books,Moderate,Yes,No,N/A,Yes - Positively Affected,No,I do not purchase books,Rural
+7,Female,Class Notes,2-3 times in a week,Studying,2-4 hours,Late Night,Spanish,Fiction,High,Yes,Yes,ebooks and audiobooks,No - Not Affected,Yes,$20 to $100,Rural
+8,Female,Lecture Videos,Once in a week,Studying,2-4 hours,Late Night,English,Fiction,Moderate,No,No,N/A,Yes - Negatively Affected,Yes,Less Than $20,Rural
+9,Female,Online resources/forums,2-3 times in a week,Studying,2-4 hours,Late Night,English,Newspapers,High,No,No,N/A,No - Not Affected,Yes,$20 to $100,Rural
+10,Female,Class Notes,2-3 times in a week,Studying,2-4 hours,Late Night,English,E-books,Moderate,Yes,No,N/A,No - Not Affected,Yes,Above $100,Rural
+11,Female,Online resources/forums,2-3 times in a week,Studying,2-4 hours,Morning,English,E-books,High,Yes,No,N/A,No - Not Affected,Yes,$20 to $100,Rural
+12,Female,Text Books,2-3 times in a week,Studying,2-4 hours,Morning,English,Fiction,High,Yes,Yes,other,No - Not Affected,Yes,Less Than $20,Rural
+13,Female,Online resources/forums,2-3 times in a week,Studying,6 and Above,Late Night,Spanish,Fiction,High,No,No,N/A,No - Not Affected,Yes,$20 to $100,Rural
+14,Male,Class Notes,Once in a week,Studying,Less than an hour,Morning,Spanish,Newspapers,Moderate,Yes,Yes,online learning,Yes - Negatively Affected,Yes,Less Than $20,Rural
+15,Male,Online resources/forums,Once in a week,Studying,Less than an hour,Evening,English,Non-Fiction,Moderate,Yes,Yes,other,Yes - Positively Affected,Yes,$20 to $100,Rural
+16,Female,Class Notes,2-3 times in a week,Studying,Less than an hour,Late Night,English,Fiction,High,Yes,No,N/A,No - Not Affected,Yes,$20 to $100,Rural
+17,Female,Text Books,Once in a week,Studying,Less than an hour,Evening,English,Fiction,Moderate,Yes,Yes,other,No - Not Affected,Yes,Less Than $20,Rural
+18,Female,Lecture Videos,2-3 times in a week,Studying,2-4 hours,Morning,English,Audiobooks,Moderate,No,No,N/A,No - Not Affected,Yes,Less Than $20,Rural
+19,Male,Online resources/forums,2-3 times in a week,Studying,Less than an hour,Morning,English,E-books,High,Yes,Yes,ebooks and audiobooks,Yes - Positively Affected,Yes,Above $100,Rural
+20,Male,Online resources/forums,Once in a week,Studying,Less than an hour,Afternoon,Spanish,Newspapers,Moderate,Yes,Yes,ebooks and audiobooks,Yes - Positively Affected,Yes,$20 to $100,Rural
+21,Male,Online resources/forums,2-3 times in a week,Studying,Less than an hour,Evening,Spanish,Newspapers,Moderate,No,No,N/A,No - Not Affected,Yes,Less Than $20,Rural
+22,Male,Online resources/forums,Daily,Studying,Less than an hour,Morning,English,Magazines,Low,Yes,No,N/A,Yes - Positively Affected,Yes,Above $100,Rural
+23,Male,Online resources/forums,Rarely,Studying,Less than an hour,Morning,Spanish,Fiction,Moderate,No,No,N/A,Yes - Negatively Affected,No,I do not purchase books,Rural
+24,Female,Online resources/forums,Daily,Studying,2-4 hours,Late Night,Spanish,Fiction,High,Yes,Yes,online learning,Yes - Positively Affected,Yes,$20 to $100,Rural
+25,Female,Class Notes,2-3 times in a week,Studying,2-4 hours,Late Night,English,E-books,High,Yes,No,N/A,Yes - Positively Affected,Yes,Above $100,Rural
+26,Female,Class Notes,Once in a week,Studying,Less than an hour,Late Night,English,E-books,High,Yes,Yes,other,Yes - Positively Affected,Yes,Less Than $20,Rural
+27,Female,Class Notes,Once in a week,Studying,2-4 hours,Morning,English,Newspapers,Moderate,Yes,Yes,tv and movies,Yes - Positively Affected,Yes,Less Than $20,Rural
+28,Female,Class Notes,Once in a month,Studying,Less than an hour,Evening,Spanish,Fiction,Moderate,Yes,No,N/A,Yes - Negatively Affected,No,I do not purchase books,Rural
+29,Female,Text Books,Once in a week,Studying,Less than an hour,Late Night,Spanish,Fiction,Low,Yes,Yes,online learning,Yes - Negatively Affected,Yes,Less Than $20,Rural
+30,Female,Class Notes,Rarely,Studying,Less than an hour,Morning,Spanish,None of these,High,No,No,N/A,No - Not Affected,Yes,Less Than $20,Rural
+31,Female,Online resources/forums,2-3 times in a week,Studying,2-4 hours,Evening,English,Reference books,Moderate,No,No,N/A,Yes - Negatively Affected,No,I do not purchase books,Rural
+32,Female,Online resources/forums,2-3 times in a week,Studying,Less than an hour,Late Night,Spanish,Newspapers,High,Yes,No,N/A,Yes - Negatively Affected,Yes,$20 to $100,Rural
+33,Female,Class Notes,Rarely,Studying,Less than an hour,Late Night,English,Fiction,Moderate,No,No,N/A,Yes - Positively Affected,Yes,$20 to $100,Rural
+34,Female,Lecture Videos,Once in a week,Studying,Less than an hour,Morning,Spanish,Fiction,Moderate,Yes,No,N/A,Yes - Positively Affected,Yes,$20 to $100,Rural
+35,Female,Text Books,Once in a week,Access to newspaper,Less than an hour,Evening,Chinese,E-books,High,No,No,N/A,Yes - Negatively Affected,Yes,$20 to $100,Rural
+36,Male,Other,2-3 times in a week,Studying,2-4 hours,Afternoon,Chinese,Newspapers,High,No,No,N/A,No - Not Affected,Yes,$20 to $100,Rural
+37,Female,Class Notes,2-3 times in a week,Studying,Less than an hour,Late Night,English,Newspapers,High,Yes,No,N/A,Yes - Negatively Affected,Yes,Less Than $20,Rural
+38,Female,Class Notes,Once in a week,Checking out materials only,Less than an hour,Morning,English,Reference books,Moderate,Yes,Yes,tv and movies,Yes - Positively Affected,Yes,Less Than $20,Rural
+39,Female,Online resources/forums,2-3 times in a week,Checking out materials only,Less than an hour,Late Night,English,Fiction,High,No,No,N/A,Yes - Positivly Affected,No,I do not purchase books,Rural
+40,Female,Online resources/forums,Daily,Studying,2-4 hours,Morning,English,Reference books,Moderate,Yes,No,N/A,Yes - Positively Affected,Yes,$20 to $100,Rural
+41,Male,Class Notes,Once in a week,Access to newspaper,Less than an hour,Late Night,Spanish,Fiction,Moderate,Yes,Yes,music,Yes - Positively Affected,Yes,$20 to $100,Rural
+42,Male,Class Notes,Once in a week,Studying,Less than an hour,Morning,English,Audiobooks,High,Yes,Yes,tv and movies,No - Not Affected,Yes,Less Than $20,Rural
+43,Male,Text Books,2-3 times in a week,Checking out materials only,2-4 hours,Late Night,English,Reference books,Moderate,Yes,Yes,online learning,Yes - Positively Affected,Yes,Less Than $20,Rural
+44,Male,Text Books,Once in a week,Access to newspaper,Less than an hour,Morning,English,Fiction,Moderate,Yes,Yes,music,No - Not Affected,Yes,Less Than $20,Rural
+45,Male,Class Notes,Once in a week,Studying,Less than an hour,Morning,Spanish,None of these,Moderate,Yes,Yes,other,Yes - Positively Affected,Yes,$20 to $100,Rural
+46,Male,Class Notes,Once in a month,Studying,Less than an hour,Morning,English,Newspapers,Moderate,Yes,Yes,online learning,Yes - Positively Affected,Yes,Less Than $20,Rural
+47,Male,Class Notes,2-3 times in a week,Access to newspaper,Less than an hour,Morning,English,Newspapers,Moderate,Yes,Yes,online learning,No - Not Affected,Yes,Less Than $20,Rural
+48,Male,Online resources/forums,Once in a month,Checking out materials only,Less than an hour,Morning,English,Reference books,High,No,No,N/A,Yes - Negatively Affected,No,I do not purchase books,Rural
+49,Female,Online resources/forums,Once in a month,Checking out materials only,Less than an hour,Morning,English,Fiction,High,No,No,N/A,Yes - Negatively Affected,Yes,Less Than $20,Rural
+50,Female,Text Books,2-3 times in a week,"Printing, copying, etc.",2-4 hours,Morning,English,Reference books,Moderate,Yes,Yes,ebooks and audiobooks,Yes - Positively Affected,No,I do not purchase books,Rural
+51,Female,Online resources/forums,Once in a month,Checking out materials only,Less than an hour,Evening,English,Fiction,Moderate,Yes,No,N/A,Yes - Positively Affected,Yes,$20 to $100,Rural
+52,Female,Lecture Videos,Once in a week,Checking out materials only,2-4 hours,Morning,English,Fiction,Moderate,Yes,No,N/A,Yes - Positively Affected,Yes,Less Than $20,Rural
+53,Female,Class Notes,Once in a month,Studying,Less than an hour,Late Night,English,Reference books,Moderate,Yes,Yes,online learning,No - Not Affected,Yes,Less Than $20,Rural
+54,Female,Text Books,Once in a week,Studying,2-4 hours,Late Night,English,Reference books,High,Yes,Yes,ebooks and audiobooks,Yes - Positively Affected,Yes,$20 to $100,Rural
+55,Female,Lecture Videos,Once in a week,"Printing, copying, etc.",Less than an hour,Morning,Spanish,Fiction,Moderate,Yes,Yes,ebooks and audiobooks,Yes - Negatively Affected,Yes,$20 to $100,Rural
+56,Female,Class Notes,Once in a month,Checking out materials only,Less than an hour,Morning,English,Reference books,Moderate,Yes,Yes,tv and movies,No - Not Affected,Yes,Less Than $20,Rural
+57,Female,Class Notes,Once in a month,Studying,Less than an hour,Morning,English,Reference books,Moderate,Yes,Yes,music,Yes - Positively Affected,Yes,Less Than $20,Rural
+58,Female,Class Notes,Once in a week,"Printing, copying, etc.",Less than an hour,Late Night,English,E-books,Moderate,Yes,No,N/A,No - Not Affected,Yes,Less Than $20,Rural
+59,Male,Other,2-3 times in a week,Having a place to read,Less than an hour,Morning,Spanish,Newspapers,Moderate,Yes,Yes,online learning,No - Not Affected,No,I do not purchase books,Rural
+60,Female,Other,Rarely,Studying,Less than an hour,Morning,Spanish,Fiction,High,Yes,No,N/A,Yes - Positively Affected,Yes,Less Than $20,Rural
+61,Female,Text Books,Rarely,Studying,Less than an hour,Morning,English,Audiobooks,Moderate,No,No,N/A,Yes - Positively Affected,No,I do not purchase books,Rural
+62,Female,Class Notes,Once in a week,Studying,Less than an hour,Morning,English,Newspapers,High,No,No,N/A,Yes - Positively Affected,Yes,Less Than $20,Rural
+63,Female,Class Notes,Rarely,Studying,2-4 hours,Afternoon,English,Fiction,Moderate,No,No,N/A,Yes - Positively Affected,Yes,$20 to $100,Rural
+64,Female,Text Books,Once in a week,Studying,Less than an hour,Morning,English,Fiction,Moderate,Yes,Yes,music,No - Not Affected,Yes,Less Than $20,Rural
+65,Female,Online resources/forums,Rarely,Reference materials,Less than an hour,Late Night,English,Fiction,High,Yes,Yes,ebooks and audiobooks,Yes - Positively Affected,Yes,$20 to $100,Rural
+66,Female,Class Notes,2-3 times in a week,Studying,2-4 hours,Evening,English,E-books,High,No,No,N/A,No - Not Affected,Yes,Less Than $20,Rural
+67,Male,Text Books,Rarely,Internet access or computer access,Less than an hour,Morning,Chinese,E-books,Moderate,Yes,Yes,music,No - Not Affected,No,I do not purchase books,Rural
+68,Female,Class Notes,Rarely,Studying,Less than an hour,Late Night,English,Reference books,Low,Yes,No,N/A,No - Not Affected,No,I do not purchase books,Rural
+69,Male,Online resources/forums,Once in a week,Access to newspaper,Less than an hour,Late Night,Spanish,Newspapers,Low,Yes,No,N/A,No - Not Affected,Yes,Less Than $20,Rural
+70,Female,Online resources/forums,Daily,Studying,Less than an hour,Morning,English,Reference books,Moderate,Yes,Yes,ebooks and audiobooks,No - Not Affected,Yes,Less Than $20,Rural
+71,Male,Text Books,2-3 times in a week,Studying,2-4 hours,Morning,English,Newspapers,High,Yes,No,N/A,No - Not Affected,Yes,$20 to $100,Rural
+72,Female,Online resources/forums,Daily,Studying,2-4 hours,Morning,English,Reference books,High,Yes,Yes,tv and movies,Yes - Positively Affected,Yes,$20 to $100,Rural
+73,Male,Text Books,2-3 times in a week,Studying,6 and Above,Morning,Spanish,Newspapers,High,No,No,N/A,Yes - Positively Affected,No,I do not purchase books,Rural
+74,Female,Online resources/forums,Once in a month,Access to newspaper,Less than an hour,Evening,English,Newspapers,High,Yes,Yes,online learning,Yes - Negatively Affected,Yes,$20 to $100,Rural
+75,Female,Class Notes,Once in a month,Studying,Less than an hour,Evening,Spanish,Non-Fiction,High,No,No,N/A,No - Not Affected,No,I do not purchase books,Rural
+76,Male,Class Notes,2-3 times in a week,Checking out materials only,2-4 hours,Evening,English,Newspapers,High,Yes,Yes,music,No - Not Affected,Yes,Less Than $20,Rural
+77,Male,Class Notes,Once in a month,Access to newspaper,Less than an hour,Morning,English,Newspapers,Moderate,Yes,Yes,online learning,Yes - Positively Affected,Yes,Less Than $20,Rural
+78,Female,Class Notes,Rarely,Having a place to read,Less than an hour,Morning,English,Fiction,Moderate,Yes,No,N/A,No - Not Affected,Yes,$20 to $100,Rural
+79,Female,Class Notes,Once in a week,Studying,Less than an hour,Afternoon,Spanish,Fiction,Moderate,No,No,N/A,Yes - Positively Affected,Yes,$20 to $100,Rural
+80,Male,Class Notes,Once in a week,Studying,Less than an hour,Evening,English,Reference books,Moderate,Yes,Yes,ebooks and audiobooks,Yes - Positively Affected,No,I do not purchase books,Rural
+81,Female,Text Books,Rarely,Studying,2-4 hours,Late Night,Spanish,E-books,Moderate,No,No,N/A,Yes - Negatively Affected,Yes,Less Than $20,Rural
+82,Male,Class Notes,Rarely,Studying,Less than an hour,Evening,English,Reference books,Moderate,No,No,N/A,No - Not Affected,Yes,Less Than $20,Rural
+83,Female,Class Notes,Rarely,Studying,Less than an hour,Morning,English,Fiction,High,No,No,N/A,Yes - Negatively Affected,Yes,Less Than $20,Rural
+84,Male,Online resources/forums,Once in a week,Having a place to read,Less than an hour,Late Night,English,Magazines,Moderate,Yes,No,N/A,No - Not Affected,Yes,$20 to $100,Rural
+85,Female,Class Notes,Once in a week,Studying,2-4 hours,Evening,English,Reference books,Moderate,No,No,N/A,Yes - Positively Affected,Yes,$20 to $100,Rural
+86,Male,Online resources/forums,2-3 times in a week,Checking out materials only,2-4 hours,Morning,English,E-books,Moderate,Yes,Yes,other,No - Not Affected,No,I do not purchase books,Rural
+87,Female,Online resources/forums,2-3 times in a week,Studying,2-4 hours,Morning,English,Reference books,Moderate,Yes,Yes,other,Yes - Positively Affected,Yes,$20 to $100,Rural
+88,Male,Lecture Videos,Daily,Internet access or computer access,2-4 hours,Morning,English,Reference books,High,Yes,Yes,tv and movies,Yes - Positively Affected,Yes,Less Than $20,Rural
+89,Female,Class Notes,Once in a week,Checking out materials only,2-4 hours,Morning,English,Newspapers,High,No,No,N/A,No - Not Affected,Yes,Less Than $20,Rural
+90,Male,Online resources/forums,2-3 times in a week,Checking out materials only,2-4 hours,Evening,English,Fiction,High,No,No,N/A,Yes - Negatively Affected,Yes,Less Than $20,Rural
+91,Female,Lecture Videos,Rarely,Studying,Less than an hour,Morning,English,None of these,Low,Yes,No,N/A,Yes - Positively Affected,Yes,$20 to $100,Rural
+92,Female,Online resources/forums,Once in a week,Checking out materials only,Less than an hour,Late Night,English,Reference books,Moderate,No,No,N/A,No - Not Affected,Yes,Less Than $20,Rural
+93,Female,Class Notes,2-3 times in a week,Studying,Less than an hour,Evening,English,E-books,High,Yes,No,N/A,Yes - Positively Affected,Yes,Less Than $20,Rural
+94,Male,Other,2-3 times in a week,Studying,2-4 hours,Afternoon,Chinese,Newspapers,High,No,No,N/A,No - Not Affected,Yes,$20 to $100,Rural
+95,Male,Other,2-3 times in a week,Studying,2-4 hours,Afternoon,Chinese,Newspapers,High,No,No,N/A,No - Not Affected,Yes,$20 to $100,Rural
+96,Female,Class Notes,Once in a week,Checking out materials only,Less than an hour,Late Night,English,E-books,Moderate,No,No,N/A,Yes - Positively Affected,No,I do not purchase books,Rural
+97,Female,Class Notes,Once in a week,Checking out materials only,Less than an hour,Late Night,English,Audiobooks,High,Yes,No,N/A,No - Not Affected,No,I do not purchase books,Rural
+98,Male,Lecture Videos,Once in a week,Internet access or computer access,Less than an hour,Late Night,Chinese,Fiction,Moderate,Yes,Yes,tv and movies,Yes - Negatively Affected,Yes,Less Than $20,Rural
+99,Male,Class Notes,Once in a week,Studying,2-4 hours,Morning,English,Non-Fiction,Moderate,No,No,N/A,Yes - Negatively Affected,Yes,Less Than $20,Rural
+100,Male,Class Notes,Daily,Studying,2-4 hours,Morning,English,Reference books,High,Yes,Yes,ebooks and audiobooks,Yes - Positively Affected,Yes,Less Than $20,Rural
+101,Male,Class Notes,Once in a month,Studying,Less than an hour,Evening,Spanish,E-books,Moderate,Yes,Yes,ebooks and audiobooks,No - Not Affected,No,I do not purchase books,Rural
+102,Female,Lecture Videos,2-3 times in a week,Studying,2-4 hours,Late Night,English,None of these,Low,Yes,Yes,music,Yes - Positively Affected,Yes,Less Than $20,Rural
+103,Female,Online resources/forums,2-3 times in a week,Studying,2-4 hours,Morning,English,E-books,Moderate,Yes,Yes,music,No - Not Affected,No,I do not purchase books,Rural
+104,Female,Class Notes,2-3 times in a week,Having a place to read,2-4 hours,Late Night,English,Newspapers,Moderate,Yes,Yes,online learning,Yes - Positively Affected,Yes,Less Than $20,Rural
+105,Female,Online resources/forums,Rarely,Studying,2-4 hours,Late Night,English,Reference books,Moderate,Yes,Yes,ebooks and audiobooks,Yes - Negatively Affected,Yes,$20 to $100,Rural
+106,Female,Class Notes,2-3 times in a week,Studying,2-4 hours,Afternoon,Spanish,Fiction,High,No,No,N/A,Yes - Positively Affected,No,I do not purchase books,Rural
+107,Female,Online resources/forums,2-3 times in a week,Studying,2-4 hours,Morning,English,None of these,Moderate,Yes,No,N/A,Yes - Negatively Affected,Yes,$20 to $100,Rural
+108,Female,Online resources/forums,Once in a month,Studying,2-4 hours,Morning,Spanish,Newspapers,High,Yes,Yes,ebooks and audiobooks,Yes - Positively Affected,Yes,$20 to $100,Rural
+109,Female,Lecture Videos,2-3 times in a week,Checking out materials only,2-4 hours,Morning,English,Newspapers,High,Yes,Yes,tv and movies,Yes - Negatively Affected,Yes,Less Than $20,Rural
+110,Female,Online resources/forums,Rarely,Studying,Less than an hour,Evening,English,Fiction,High,Yes,No,N/A,No - Not Affected,Yes,$20 to $100,Rural
+111,Female,Text Books,2-3 times in a week,Studying,2-4 hours,Afternoon,English,Fiction,High,No,No,N/A,No - Not Affected,Yes,$20 to $100,Rural
+112,Female,Text Books,2-3 times in a week,Studying,2-4 hours,Morning,English,Fiction,High,Yes,Yes,online learning,Yes - Negatively Affected,Yes,Less Than $20,Rural
+113,Female,Text Books,Rarely,Studying,Less than an hour,Afternoon,English,Fiction,Moderate,No,No,N/A,Yes - Negatively Affected,Yes,Less Than $20,Urban
+114,Female,Other,2-3 times in a week,"Printing, copying, etc.",2-4 hours,Afternoon,English,Newspapers,Moderate,No,No,N/A,No - Not Affected,Yes,Less Than $20,Rural
+115,Male,Text Books,2-3 times in a week,Studying,2-4 hours,Morning,English,Reference books,High,Yes,No,N/A,No - Not Affected,Yes,$20 to $100,Rural
+116,Female,Other,2-3 times in a week,Studying,2-4 hours,Evening,English,Fiction,Moderate,No,No,N/A,No - Not Affected,Yes,$20 to $100,Urban
+117,Female,Online resources/forums,Once in a week,Checking out materials only,Less than an hour,Late Night,English,Newspapers,High,No,No,N/A,No - Not Affected,Yes,$20 to $100,Rural
+118,Female,Text Books,Once in a month,Checking out materials only,Less than an hour,Evening,English,Fiction,Low,Yes,No,N/A,No - Not Affected,No,I do not purchase books,Rural
+119,Male,Class Notes,Once in a month,Checking out materials only,Less than an hour,Evening,English,Audiobooks,Low,No,No,N/A,Yes - Negatively Affected,Yes,Above $100,Urban
+120,Female,Online resources/forums,Once in a week,Studying,2-4 hours,Morning,English,Newspapers,High,Yes,No,N/A,No - Not Affected,Yes,Less Than $20,Rural
+121,Female,Lecture Videos,Rarely,Studying,Less than an hour,Late Night,English,Fiction,High,No,No,N/A,No - Not Affected,Yes,$20 to $100,Urban
+122,Female,Other,Rarely,Other,2-4 hours,Late Night,English,Fiction,Moderate,Yes,No,N/A,No - Not Affected,Yes,Less Than $20,Urban
+123,Female,Class Notes,Daily,Access to newspaper,5-6 hours,Evening,English,Non-Fiction,High,Yes,Yes,online learning,No - Not Affected,Yes,Less Than $20,Urban
+124,Female,Other,Rarely,Studying,6 and Above,Morning,English,Fiction,Moderate,Yes,No,N/A,No - Not Affected,Yes,Less Than $20,Urban
+125,Male,Lecture Videos,Once in a week,Other,2-4 hours,Late Night,English,Fiction,Moderate,Yes,No,N/A,No - Not Affected,No,I do not purchase books,Rural
+126,Female,Other,Once in a month,Studying,2-4 hours,Afternoon,English,Fiction,High,Yes,Yes,tv and movies,No - Not Affected,Yes,Less Than $20,Rural
+127,Female,Class Notes,Rarely,Studying,Less than an hour,Morning,English,Fiction,High,No,No,N/A,Yes - Negatively Affected,Yes,Less Than $20,Rural
+128,Male,Other,Once in a month,Access to newspaper,Less than an hour,Evening,English,Fiction,Moderate,No,No,N/A,Yes - Negatively Affected,No,I do not purchase books,Rural
+129,Female,Online resources/forums,Rarely,Checking out materials only,Less than an hour,Afternoon,English,Reference books,Moderate,Yes,No,N/A,Yes - Negatively Affected,Yes,Less Than $20,Rural
+130,Male,Class Notes,Once in a month,Studying,Less than an hour,Evening,English,E-books,High,Yes,No,N/A,No - Not Affected,Yes,Less Than $20,Rural
+131,Female,Online resources/forums,2-3 times in a week,Studying,2-4 hours,Morning,English,Reference books,Moderate,No,No,N/A,No - Not Affected,Yes,$20 to $100,Rural
+132,Male,Text Books,Rarely,"Printing, copying, etc.",Less than an hour,Morning,English,Fiction,Low,No,No,N/A,No - Not Affected,Yes,Less Than $20,Urban
+133,Female,Class Notes,Rarely,Studying,2-4 hours,Late Night,English,Fiction,Moderate,No,No,N/A,Yes - Negatively Affected,Yes,Less Than $20,Rural
+134,Female,Class Notes,Rarely,Other,Less than an hour,Late Night,English,Reference books,Moderate,No,No,N/A,No - Not Affected,Yes,Less Than $20,Urban
+135,Male,Online resources/forums,2-3 times in a week,Studying,5-6 hours,Morning,English,None of these,High,Yes,No,N/A,No - Not Affected,Yes,Less Than $20,Rural
+136,Male,Class Notes,Once in a month,Access to newspaper,Less than an hour,Morning,English,Newspapers,High,Yes,Yes,tv and movies,No - Not Affected,Yes,Less Than $20,Rural
+137,Male,Online resources/forums,Daily,Internet access or computer access,Less than an hour,Afternoon,English,Newspapers,Moderate,Yes,No,N/A,No - Not Affected,Yes,$20 to $100,Urban
+138,Male,Other,Rarely,Having a place to read,Less than an hour,Late Night,English,Audiobooks,High,Yes,No,N/A,No - Not Affected,No,I do not purchase books,Rural
+139,Female,Text Books,Once in a week,Checking out materials only,Less than an hour,Morning,English,Non-Fiction,Moderate,No,No,N/A,No - Not Affected,Yes,Less Than $20,Rural
+140,Female,Online resources/forums,Daily,Access to newspaper,Less than an hour,Morning,English,Reference books,High,Yes,No,N/A,No - Not Affected,Yes,Less Than $20,Rural
+141,Female,Class Notes,Once in a week,Checking out materials only,Less than an hour,Evening,English,E-books,Moderate,Yes,Yes,tv and movies,No - Not Affected,Yes,Less Than $20,Urban
+142,Female,Text Books,2-3 times in a week,Checking out materials only,2-4 hours,Morning,English,Newspapers,High,Yes,No,N/A,No - Not Affected,Yes,$20 to $100,Rural
+143,Female,Online resources/forums,Daily,Having a place to read,5-6 hours,Evening,English,Non-Fiction,Moderate,Yes,No,N/A,No - Not Affected,Yes,$20 to $100,Rural
+144,Female,Online resources/forums,Once in a month,Checking out materials only,6 and Above,Morning,English,None of these,High,Yes,No,N/A,Yes - Negatively Affected,Yes,Less Than $20,Rural
+145,Female,Online resources/forums,Once in a month,Having a place to read,2-4 hours,Morning,English,Newspapers,High,Yes,No,N/A,Yes - Negatively Affected,Yes,Less Than $20,Rural
+146,Female,Class Notes,2-3 times in a week,Checking out materials only,2-4 hours,Evening,English,Non-Fiction,High,No,No,N/A,No - Not Affected,Yes,Less Than $20,Rural
+147,Female,Class Notes,2-3 times in a week,Other,Less than an hour,Evening,English,Fiction,Moderate,Yes,No,N/A,Yes - Negatively Affected,Yes,Less Than $20,Rural
+148,Female,Online resources/forums,Once in a week,Having a place to read,2-4 hours,Morning,English,Non-Fiction,Moderate,Yes,Yes,tv and movies,No - Not Affected,Yes,Less Than $20,Urban
+149,Male,Class Notes,Once in a week,Studying,Less than an hour,Late Night,English,Audiobooks,Low,Yes,No,N/A,Yes - Negatively Affected,No,I do not purchase books,Rural
+150,Male,Online resources/forums,Once in a week,Studying,Less than an hour,Afternoon,English,Fiction,Low,Yes,No,N/A,No - Not Affected,No,I do not purchase books,Rural
+151,Female,Text Books,Once in a month,Studying,Less than an hour,Late Night,English,Magazines,Moderate,No,No,N/A,Yes - Negatively Affected,Yes,Less Than $20,Rural
+152,Female,Class Notes,2-3 times in a week,Studying,6 and Above,Morning,English,Fiction,Moderate,Yes,No,N/A,No - Not Affected,Yes,Less Than $20,Rural
+153,Female,Text Books,Daily,Access to newspaper,2-4 hours,Afternoon,English,E-books,Moderate,No,No,N/A,No - Not Affected,No,I do not purchase books,Rural
+154,Female,Class Notes,2-3 times in a week,Access to newspaper,2-4 hours,Late Night,English,Reference books,High,Yes,Yes,ebooks and audiobooks,No - Not Affected,Yes,$20 to $100,Rural
+155,Female,Class Notes,2-3 times in a week,Having a place to read,2-4 hours,Late Night,English,Newspapers,Moderate,No,No,N/A,Yes - Negatively Affected,Yes,$20 to $100,Rural
+156,Female,Online resources/forums,Once in a week,Checking out materials only,Less than an hour,Evening,English,E-books,Moderate,Yes,Yes,tv and movies,No - Not Affected,Yes,Above $100,Urban
+157,Female,Online resources/forums,Rarely,Other,2-4 hours,Evening,English,Magazines,Moderate,No,No,N/A,No - Not Affected,Yes,Less Than $20,Rural
+158,Female,Online resources/forums,2-3 times in a week,Access to newspaper,2-4 hours,Morning,English,E-books,High,Yes,Yes,online learning,No - Not Affected,Yes,Above $100,Rural
+159,Female,Class Notes,Once in a week,Studying,Less than an hour,Afternoon,English,E-books,Moderate,No,No,N/A,No - Not Affected,Yes,$20 to $100,Rural
+160,Female,Online resources/forums,2-3 times in a week,Studying,2-4 hours,Morning,English,E-books,Moderate,Yes,Yes,music,No - Not Affected,Yes,Above $100,Rural
+161,Female,Other,Daily,Studying,2-4 hours,Morning,English,None of these,Moderate,Yes,No,N/A,No - Not Affected,Yes,Less Than $20,Rural
+162,Female,Class Notes,2-3 times in a week,Studying,Less than an hour,Morning,English,Fiction,Moderate,Yes,No,N/A,No - Not Affected,Yes,Less Than $20,Rural
+163,Male,Online resources/forums,2-3 times in a week,Studying,2-4 hours,Morning,English,Magazines,High,Yes,Yes,online learning,No - Not Affected,Yes,Less Than $20,Rural
+164,Male,Online resources/forums,Rarely,Studying,Less than an hour,Morning,English,Fiction,High,No,No,N/A,No - Not Affected,Yes,Less Than $20,Urban
+165,Female,Lecture Videos,Once in a month,Studying,To borrow library materials,Afternoon,English,Fiction,Moderate,Yes,Yes,online learning,Yes - Negatively Affected,Yes,Less Than $20,Rural
+166,Female,Text Books,2-3 times in a week,Studying,2-4 hours,Morning,English,Magazines,High,Yes,No,N/A,No - Not Affected,Yes,Less Than $20,Rural
+167,Female,Text Books,Rarely,Studying,Less than an hour,Morning,English,Fiction,Moderate,No,No,N/A,Yes - Negatively Affected,Yes,Less Than $20,Rural
+168,Female,Online resources/forums,Once in a week,Studying,Less than an hour,Late Night,English,Fiction,Moderate,Yes,No,N/A,Yes - Negatively Affected,No,I do not purchase books,Rural
+169,Male,Online resources/forums,Once in a week,Checking out materials only,Less than an hour,Late Night,English,Fiction,Low,Yes,No,N/A,Yes - Negatively Affected,Yes,Less Than $20,Urban
+170,Female,Online resources/forums,Rarely,Studying,Less than an hour,Evening,English,Non-Fiction,High,No,No,N/A,No - Not Affected,No,I do not purchase books,Urban
+171,Female,Text Books,Once in a month,Checking out materials only,Less than an hour,Late Night,English,Fiction,Moderate,Yes,Yes,music,Yes - Negatively Affected,Yes,$20 to $100,Rural
+172,Male,Online resources/forums,Once in a week,Access to newspaper,Less than an hour,Morning,English,Newspapers,Low,Yes,Yes,other,No - Not Affected,No,I do not purchase books,Rural
+173,Male,Other,2-3 times in a week,Studying,2-4 hours,Afternoon,English,Fiction,High,No,No,N/A,No - Not Affected,Yes,$20 to $100,Urban
+174,Female,Online resources/forums,Once in a month,Studying,Less than an hour,Evening,English,None of these,Moderate,Yes,No,N/A,No - Not Affected,Yes,Less Than $20,Rural
+175,Male,Online resources/forums,2-3 times in a week,Checking out materials only,6 and Above,Morning,English,Magazines,High,Yes,Yes,music,No - Not Affected,Yes,Less Than $20,Urban
+176,Female,Lecture Videos,Once in a week,Other,Less than an hour,Evening,English,E-books,High,Yes,Yes,music,No - Not Affected,Yes,Less Than $20,Rural
+177,Male,Online resources/forums,2-3 times in a week,Having a place to read,2-4 hours,Late Night,English,E-books,Moderate,Yes,Yes,tv and movies,Yes - Negatively Affected,Yes,Above $100,Urban
+178,Male,Class Notes,Once in a week,Checking out materials only,2-4 hours,Morning,English,Fiction,High,Yes,No,N/A,No - Not Affected,Yes,$20 to $100,Rural
+179,Male,Text Books,Daily,Access to newspaper,5-6 hours,Morning,English,Magazines,Moderate,No,No,N/A,Yes - Negatively Affected,Yes,$20 to $100,Urban
+180,Female,Online resources/forums,Once in a month,Checking out materials only,Less than an hour,Morning,English,Reference books,Moderate,No,No,N/A,Yes - Negatively Affected,Yes,Less Than $20,Rural
+181,Male,Class Notes,Once in a week,Studying,Less than an hour,Morning,English,Newspapers,Moderate,No,No,N/A,Yes - Negatively Affected,No,I do not purchase books,Rural
+182,Male,Online resources/forums,Once in a month,Access to newspaper,Less than an hour,Morning,English,Newspapers,High,No,No,N/A,No - Not Affected,Yes,Less Than $20,Rural
+183,Female,Other,Once in a week,Other,2-4 hours,Late Night,English,Fiction,Moderate,Yes,No,N/A,Yes - Negatively Affected,Yes,$20 to $100,Rural
+184,Female,Online resources/forums,Once in a week,Having a place to read,Less than an hour,Late Night,English,Fiction,Moderate,No,No,N/A,No - Not Affected,No,I do not purchase books,Urban
+185,Female,Online resources/forums,Once in a week,Having a place to read,2-4 hours,Late Night,English,Magazines,High,Yes,No,N/A,No - Not Affected,Yes,$20 to $100,Rural
+186,Female,Lecture Videos,Once in a week,Checking out materials only,2-4 hours,Late Night,English,Non-Fiction,Moderate,Yes,Yes,ebooks and audiobooks,No - Not Affected,Yes,$20 to $100,Urban
+187,Female,Text Books,Once in a week,Checking out materials only,Less than an hour,Morning,English,Newspapers,Moderate,Yes,Yes,tv and movies,No - Not Affected,Yes,$20 to $100,Rural
+188,Female,Online resources/forums,Once in a week,Checking out materials only,Less than an hour,Morning,English,Newspapers,Low,Yes,No,N/A,No - Not Affected,Yes,Less Than $20,Rural
+189,Female,Class Notes,Once in a week,Checking out materials only,Less than an hour,Morning,English,E-books,Moderate,No,No,N/A,No - Not Affected,Yes,$20 to $100,Urban
+190,Female,Lecture Videos,2-3 times in a week,"Printing, copying, etc.",2-4 hours,Morning,English,Reference books,Moderate,Yes,No,N/A,No - Not Affected,Yes,$20 to $100,Rural
+191,Female,Class Notes,Once in a week,Having a place to read,2-4 hours,Morning,English,Fiction,High,Yes,No,N/A,No - Not Affected,Yes,Less Than $20,Rural
+192,Female,Online resources/forums,2-3 times in a week,Checking out materials only,Less than an hour,Late Night,English,E-books,High,Yes,No,N/A,No - Not Affected,Yes,Less Than $20,Rural
+193,Female,Lecture Videos,Daily,Access to newspaper,2-4 hours,Morning,English,E-books,High,Yes,No,N/A,No - Not Affected,Yes,Above $100,Rural
+194,Male,Online resources/forums,2-3 times in a week,Having a place to read,5-6 hours,Evening,English,Reference books,High,Yes,Yes,online learning,No - Not Affected,Yes,Above $100,Urban
+195,Male,Online resources/forums,Once in a week,Checking out materials only,Less than an hour,Morning,English,E-books,High,Yes,Yes,online learning,No - Not Affected,Yes,Less Than $20,Rural
+196,Male,Lecture Videos,Rarely,Checking out materials only,Less than an hour,Morning,English,E-books,Moderate,No,No,N/A,Yes - Negatively Affected,Yes,$20 to $100,Rural
+197,Female,Class Notes,Once in a week,Checking out materials only,2-4 hours,Late Night,English,Fiction,High,Yes,No,N/A,No - Not Affected,Yes,Less Than $20,Rural
+198,Female,Online resources/forums,2-3 times in a week,Checking out materials only,Less than an hour,Morning,English,Newspapers,High,Yes,No,N/A,No - Not Affected,Yes,Less Than $20,Rural
+199,Female,Online resources/forums,Rarely,"Printing, copying, etc.",2-4 hours,Morning,English,Fiction,High,Yes,No,N/A,Yes - Negatively Affected,Yes,$20 to $100,Rural
+200,Female,Class Notes,Once in a week,Checking out materials only,Less than an hour,Morning,English,None of these,High,Yes,No,N/A,No - Not Affected,Yes,$20 to $100,Rural
+201,Female,Class Notes,Once in a week,Checking out materials only,Less than an hour,Evening,English,Non-Fiction,Moderate,No,No,N/A,No - Not Affected,No,I do not purchase books,Urban
+202,Female,Class Notes,2-3 times in a week,Access to newspaper,Less than an hour,Afternoon,English,Non-Fiction,High,Yes,Yes,other,No - Not Affected,No,I do not purchase books,Rural
+203,Female,Online resources/forums,2-3 times in a week,Checking out materials only,2-4 hours,Morning,English,E-books,Moderate,Yes,Yes,tv and movies,No - Not Affected,Yes,Less Than $20,Rural
+204,Female,Online resources/forums,Once in a month,Studying,Less than an hour,Afternoon,English,Fiction,Moderate,Yes,Yes,other,Yes - Negatively Affected,Yes,Less Than $20,Urban
+205,Female,Online resources/forums,Rarely,Checking out materials only,Less than an hour,Late Night,English,Fiction,High,No,No,N/A,No - Not Affected,Yes,$20 to $100,Urban
+206,Female,Online resources/forums,Once in a week,Checking out materials only,2-4 hours,Late Night,English,Magazines,Moderate,Yes,Yes,ebooks and audiobooks,No - Not Affected,No,I do not purchase books,Rural
+207,Male,Text Books,2-3 times in a week,Checking out materials only,2-4 hours,Morning,English,Fiction,High,No,No,N/A,Yes - Negatively Affected,Yes,Less Than $20,Rural
+208,Female,Class Notes,2-3 times in a week,Studying,2-4 hours,Late Night,English,Fiction,Moderate,Yes,Yes,online learning,Yes - Negatively Affected,Yes,$20 to $100,Rural
+209,Female,Class Notes,Once in a month,Studying,2-4 hours,Morning,English,Newspapers,Moderate,Yes,No,N/A,No - Not Affected,Yes,$20 to $100,Urban
+210,Female,Online resources/forums,Once in a month,Checking out materials only,Less than an hour,Morning,English,Newspapers,Moderate,Yes,No,N/A,Yes - Negatively Affected,No,I do not purchase books,Rural
+211,Female,Class Notes,Rarely,Checking out materials only,Less than an hour,Afternoon,English,Newspapers,Low,No,No,N/A,No - Not Affected,No,I do not purchase books,Urban
+212,Male,Text Books,2-3 times in a week,Checking out materials only,2-4 hours,Morning,English,E-books,Moderate,Yes,No,N/A,Yes - Negatively Affected,Yes,Above $100,Rural
+213,Female,Class Notes,Daily,Having a place to read,2-4 hours,Morning,English,Fiction,High,No,No,N/A,No - Not Affected,Yes,Less Than $20,Urban
+214,Female,Text Books,Once in a week,Studying,Less than an hour,Evening,English,Fiction,Low,No,No,N/A,No - Not Affected,Yes,Less Than $20,Urban
+215,Female,Text Books,2-3 times in a week,Studying,2-4 hours,Late Night,English,Fiction,High,No,No,N/A,Yes - Negatively Affected,Yes,Less Than $20,Rural
+216,Female,Class Notes,Once in a month,Checking out materials only,Less than an hour,Afternoon,English,Audiobooks,Moderate,Yes,No,N/A,No - Not Affected,Yes,Less Than $20,Urban
+217,Female,Online resources/forums,2-3 times in a week,Checking out materials only,Less than an hour,Evening,English,E-books,High,Yes,Yes,ebooks and audiobooks,No - Not Affected,Yes,$20 to $100,Urban
+218,Female,Text Books,Daily,Studying,2-4 hours,Evening,English,None of these,Moderate,Yes,No,N/A,No - Not Affected,Yes,$20 to $100,Urban
+219,Female,Class Notes,Rarely,Studying,2-4 hours,Morning,English,E-books,High,No,No,N/A,No - Not Affected,Yes,$20 to $100,Rural
+220,Female,Class Notes,Once in a week,Other,Less than an hour,Morning,English,Fiction,High,No,No,N/A,No - Not Affected,No,I do not purchase books,Rural
+221,Female,Class Notes,Once in a week,Other,2-4 hours,Morning,English,Fiction,Moderate,No,No,N/A,No - Not Affected,No,I do not purchase books,Rural
+222,Female,Online resources/forums,Once in a month,Other,Less than an hour,Morning,English,Fiction,High,Yes,Yes,other,Yes - Negatively Affected,No,I do not purchase books,Rural
+223,Male,Class Notes,Daily,Checking out materials only,6 and Above,Morning,English,Audiobooks,High,Yes,No,N/A,No - Not Affected,Yes,$20 to $100,Rural
+224,Female,Text Books,Once in a week,Studying,Less than an hour,Evening,English,Fiction,Moderate,Yes,No,N/A,No - Not Affected,Yes,$20 to $100,Rural
+225,Male,Online resources/forums,Daily,Studying,6 and Above,Morning,English,Magazines,High,Yes,No,N/A,No - Not Affected,Yes,Above $100,Rural
+226,Female,Text Books,Once in a week,Internet access or computer access,2-4 hours,Morning,English,Reference books,High,Yes,Yes,music,No - Not Affected,No,I do not purchase books,Rural
+227,Female,Class Notes,2-3 times in a week,Checking out materials only,2-4 hours,Morning,English,Non-Fiction,Low,Yes,Yes,ebooks and audiobooks,No - Not Affected,No,I do not purchase books,Urban
+228,Male,Text Books,2-3 times in a week,Studying,2-4 hours,Morning,English,Magazines,High,Yes,Yes,other,No - Not Affected,Yes,Less Than $20,Rural
